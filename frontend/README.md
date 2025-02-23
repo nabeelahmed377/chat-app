@@ -52,11 +52,12 @@ A real-time chat application built using modern web technologies.
    ```
 4. **Run the server:**
    ```bash
+   cd backend
    npm start
    ```
 5. **Run the client:**
    ```bash
-   cd client
+   cd frontend
    npm start
    ```
 
