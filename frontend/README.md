@@ -34,7 +34,7 @@ A real-time chat application built using modern web technologies.
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/chat-app.git
+   git clone https://github.com/nabeelahmed377/chat-app.git
    cd chat-app
    ```
 2. **Install dependencies:**
